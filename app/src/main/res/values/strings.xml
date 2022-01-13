@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoviesDB</string>
+    <string name="movie_name">Movie Name</string>
+</resources>
